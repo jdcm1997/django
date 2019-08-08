@@ -6,5 +6,5 @@ from django.http import HttpResponse
 
 
 def index(request):
-    return HttpResponse("<h1>Hello, world. You're at the polls index.<h1/>")
+    return HttpResponse("<h1>Hello, world. You're at the polls index1.<h1/>")
 
